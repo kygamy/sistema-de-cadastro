@@ -2,8 +2,8 @@
 
 > Status do projeto: Em desenvolvimento
 
-Para rodar este projeto e so agradecer a Deus :): 
+Para rodar este projeto digite: 
 
 ```
-amém
+node app.js
 ```
